@@ -1,0 +1,3 @@
+[submodule "dot-files"]
+	path = dot-files
+	url = git@github.com:jandvanegas/dot-files.git
