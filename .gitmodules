@@ -1,3 +1,6 @@
 [submodule "dot-files"]
 	path = dot-files
 	url = git@github.com:jandvanegas/dot-files.git
+[submodule "aws-sa-associate-saac03"]
+	path = aws-sa-associate-saac03
+	url = https://github.com/acantril/aws-sa-associate-saac03.git
